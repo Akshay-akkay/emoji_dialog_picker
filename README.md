@@ -1,4 +1,4 @@
-# Emoji Dialog Picker
+# Emoji Dialog Picker (I Contributed)
 Emoji dialog picker makes it easy to select emojis from any platform.
 
 ## Content
